@@ -1,1 +1,1 @@
-Solutions to project euler questions
+Solutions to project euler questions in mostly python and VBA.
