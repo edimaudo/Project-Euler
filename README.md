@@ -1,1 +1,1 @@
-Solutions to project euler questions in mostly python and VBA.
+Solutions to project euler questions using python/vba
